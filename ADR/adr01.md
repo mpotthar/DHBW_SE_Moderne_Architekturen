@@ -1,4 +1,4 @@
-# ADR_01: Verwendung einer Microservices-Architektur für Skalierbarkeit
+# ADR_01: Verwendung einer Microservices-Architektur
 
 ## Inhaltsverzeichnis
 1. [Status](#status)  
