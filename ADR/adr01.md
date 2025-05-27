@@ -1,4 +1,4 @@
-# ADR_01: Verwendung einer Microservices-Architektur für Skalierbarkeit und Modularität
+# ADR_01: Verwendung einer Microservices-Architektur für Skalierbarkeit
 
 ## Inhaltsverzeichnis
 1. [Status](#status)  
@@ -48,7 +48,7 @@ Wir haben uns entschieden, eine **Microservices-Architektur** zu implementieren.
 
 ### Manuelle Überprüfung
 - **Sicherheitsaudits:** Quartalsweise Sicherheitsaudits durch externe Penetrationstester zur Überprüfung der Architektur auf Schwachstellen.
-- **Datenschutzprüfung:** Prüfung der Einhaltung von Datenschutzrichtlinien (z. B. DSGVO) durch regelmäßige interne Audits und Zertifizierungen.
+- **Datenschutzprüfung:** Prüfung der Einhaltung von Datenschutzrichtlinien (z. B. DSGVO) durch regelmäßige interne Audits und Zertifizierungen (bspw. ISO 27001).
 
 ---
 
